@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Daadork
-- 👀 I’m interested in design, programming and video game
-- 🌱 I’m currently learning on BI
+👋 Hi, I’m @Daadork (Danil, from Russia)
+👀 I’m interested in design, machine learning, gamedev, BA
+🌱 I’m currently learning C#, Python, Unity 3D
+💞️ I’m looking to collaborate on with gaming companies
 - 📫 How to reach me:: Telegram: @kolbuy; Gmail: golobokovwork1@gmail.com
 
 <!---
