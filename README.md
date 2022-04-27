@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Daadork
-- 👀 I’m interested in design, programming
+- 👀 I’m interested in design, programming and video game
 - 🌱 I’m currently learning on BI
 - 📫 How to reach me:: Telegram: @kolbuy; Gmail: golobokovwork1@gmail.com
 
